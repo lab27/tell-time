@@ -4,6 +4,7 @@
   "description": "Prototype",
   "main": "index.js",
   "scripts": {
+    "start": "gulp",
     "test": "test"
   },
   "repository": {
